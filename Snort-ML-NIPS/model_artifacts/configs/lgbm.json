@@ -1,0 +1,7 @@
+{
+  "selected_model": "lgbm",
+  "model_path": "/opt/snort-ml/lgbm_model_final.onnx",
+  "scaler_path": "/opt/snort-ml/scaler_params_lgbm.json",
+  "threshold": 0.536,
+  "runtime": "onnx"
+}

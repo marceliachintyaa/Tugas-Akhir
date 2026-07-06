@@ -1,0 +1,9 @@
+{
+  "selected_model": "aemlp",
+  "encoder_path": "/opt/snort-ml/ae_encoder_final.tflite",
+  "classifier_path": "/opt/snort-ml/ae_mlp_final.tflite",
+  "ae_model_path": "/opt/snort-ml/ae_model_final.tflite",
+  "scaler_path": "/opt/snort-ml/scaler_params.json",
+  "threshold": 0.683,
+  "runtime": "tflite"
+}
