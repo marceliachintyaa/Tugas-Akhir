@@ -1,7 +1,0 @@
-{
-  "selected_model": "mlp_new",
-  "model_path": "/opt/snort-ml/models_new/mlp_new.tflite",
-  "scaler_path": "/opt/snort-ml/scaler_params_mlp.json",
-  "threshold": 0.48,
-  "runtime": "tflite"
-}
